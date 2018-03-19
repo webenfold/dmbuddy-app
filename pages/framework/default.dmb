@@ -1,0 +1,22 @@
+<header id="topHeader" class="blue">
+  <div id="drawer" class="drawer transition" onClick="return toggle_menu(1);">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  <a href="#" id="logo" onClick="resetObjective();" class="obj-logo"></a>
+</header>
+<div class="content-base">
+  <navigation id="navigation" class="transition">
+    <div class="logo-img">
+      <a href="#" onCLick="continueReading();">
+        <img draggable="false" src="../media/default.png" data-background-image="media/logo.png">
+      </a>
+    </div>
+    <div id="inner-menu" class="innerMenu"></div>
+  </navigation>
+  <content id="content" class="texture-back transition">
+    <div id="inner-content"></div>
+  </content>
+</div>

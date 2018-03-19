@@ -1,0 +1,50 @@
+{
+  "a1": {
+    "course": {
+      "Introduction": {
+        "1": "Introduction to Digital Marketing Course",
+        "2": "Understanding Digital Marketing",
+        "3": "Importance of Digital Marketing",
+        "4": "Digital marketing approaches",
+        "5": "Understanding Online Presence"
+      },
+      "Creating Online Presence": {
+        "1": "Understanding websites and blog",
+        "2": "Different type of websites",
+        "3": "Website requirements",
+        "4": "Understanding Domain Name",
+        "5": "Understanding Web Hosting Server"
+      }
+    },
+    "guide": {
+      "wp-guide": {
+
+      }
+    },
+    "pages": {
+
+    }
+  },
+  "a2": {
+    "course": {
+
+    },
+    "guide": {
+
+    },
+    "pages": {
+
+    }
+  },
+  "a3": {
+    "course": {
+
+    },
+    "guide": {
+
+    },
+    "pages": {
+
+    }
+  }
+}

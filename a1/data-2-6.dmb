@@ -1,0 +1,127 @@
+<!-- Chapter & Topic Bar -->
+<div class="chapter-title">
+  <p>
+    <!-- Chapter -->
+    <span class="chapterx">2
+      <sup>nd</sup> Chapter</span>
+    <!-- Topic -->
+    <span class="chapterx">6
+      <sup>th</sup> Topic</span>
+    <!-- Close Button -->
+    <a href="dmbuddy.htm?page=home">
+      <img draggable="false" src="../images/closetopic.png">
+    </a>
+  </p>
+</div>
+
+
+<!-- Featured Image -->
+<img draggable="false" src="media/course/a1/126.jpg">
+
+
+<!-- Content -->
+<div class="contentBox">
+  <h2>Getting Domain Name and Web Hosting</h2>
+  <p>Getting Domain Name and Web Hosting is just like purchasing something online. The process is very simple. Once you purchase,
+    you can use your domain name and web hosting to host your website.</p>
+  <h3>Purchasing Domain Name</h3>
+  <p>As you already know, registering your domain name is the first step towards establishing your online presence. Registering
+    a domain name means registering the name of your business you want with an organization called ICANN through a domain
+    name registrar.</p>
+  <p>To get a domain name you have to pay a registration fee to domain name registrar. That will give you the right to the domain
+    name for a year, and you will have to renew it annually for (usually) the same amount per annum. Purchasing a name is
+    a relatively simple process (although finding one that isn&#8217;t already taken can be a challenge). Since your domain
+    name is, in effect, the name of your website, you want to make sure you get a good one. There are also many factors that
+    you should consider before purchasing one.</p>
+  <h4>Characteristics of a good domain name</h4>
+  <ol>
+    <li>Simple and understandable for your target audience</li>
+    <li>Small and easy to remember</li>
+  </ol>
+  <h4>Good things to do</h4>
+  <ol>
+    <li>Use the name of your business or keywords of your product, services or blog</li>
+    <li>Use country code domain names (Such as: .in, .uk, .us etc.) for better SEO</li>
+  </ol>
+  <p class="note">Country code domains names are global in nature (that means .in domains can be opened in united states and other parts
+    of the world)</p>
+  <h4>Bad Things to avoid</h4>
+  <ol>
+    <li>Avoid Misspellings</li>
+    <li>Avoid hypes and dash</li>
+    <li>Avoid Long Domain Names</li>
+    <li>It is not compulsory to have keywords in a domain name</li>
+  </ol>
+  <p class="note">Domain name never accepts space between the characters</p>
+  <h4>Searching Domain Name</h4>
+  <p>Finding the right domain name is quite a challenge nowadays. Most of them are not available and some domains are available
+    at higher price. These high price domains are called premium domains. Fraudulent companies purchase popular and common
+    domains and sell these domains at a higher price through the auction.</p>
+  <p>Domain names disappear extremely fast. Many people claim that all the good domain names are gone. It is probably true that
+    most good domain names that are descriptive of products and services have been taken.</p>
+  <p>Thus, if you want a domain name for your site, I suggest you act now or face the anguish of having lost that name later.</p>
+  <h4>Selecting Domain Name</h4>
+  <p>Think of a few good domain names that you&#8217;d like to use. Don’t just think one domain name. It might already be taken.
+    So think multiple domain names. Create a list.</p>
+  <p class="note">Most of the domain name registrars track your domain searches online. Thus it might happen that the domain you searched
+    before might not be available next day.</p>
+  <p>Open the website from where you would like to purchase the domain name. Some good Domin Name registrars are:</p>
+  <ol>
+    <li>Namespace</li>
+    <li>Namecheap</li>
+    <li>bigrock.com</li>
+    <li>Hostgator</li>
+    <li>Bluehost</li>
+    <li>one.com</li>
+  </ol>
+  <p>Once you open the website. Start searching for the availability of your domain names from the list. Strikeout unavailable
+    domains. Don&#8217;t get disappointed if you are not getting a good domain name. Search using synonyms or combining your
+    domain name with the popular name of the places, birds, animals, celebrities, food etc. Use the help your friends or
+    relatives.</p>
+  <p>Once you select the domain name, you need to purchase it before it gets purchased or booked by others. So don&#8217;t take
+    chances and act fast.</p>
+  <h3>Getting Web Hosting</h3>
+  <p>As you already know there are different types of Web Hosting servers provides by the hosting service providers. It&#8217;s
+    good to start with shared hosting server. You can purchase Web Hosting separately or along with the domain name. You
+    can purchase Web Hosting from the same websites. You may get some discount by purchasing Domain Name and Hosting together.</p>
+  <p class="note">Domain and Hosting have validity and needs annual renewal.</p>
+  <p>Don&#8217;t use free domains and hosting. They are poorly maintained, might install malicious code on your website to steal
+    sensitive information, remove your website and erase all data without any reason and you can’t complain. They are good
+    only for learning purpose.</p>
+  <p>
+    <strong>Setup Domain Name and Web Hosting</strong>
+  </p>
+  <p>Once you purchased the domain name. You can open your account or c-panel to install WordPress. You can take the help by
+    calling customer care or going through the FAQs or guides of the service provider. Next, you different ways of creating
+    a website? What is WordPress? and more.</p>
+</div>
+<div class="chatBox">
+  <p class="bob">Kevin, I searched online for .banana extension. But it doesn&#8217;t exist.</p>
+  <p class="kevin">Hmm</p>
+  <p class="bob">I think I should purchase sumthing like (bobsbanana.com)</p>
+  <p class="kevin">Yes, but it is not that simple. Even though if you technically manage to turn your computer into web hosting server it
+    will be practically difficult to keep it running 24&#215;7. When your computer goes down, your website goes down.</p>
+  <p class="bob">I see</p>
+  <p class="stuart">How much a web hosting server costs?</p>
+  <p class="kevin">Rates vary depending upon the web hosting providers, server resources etc. It starts free and there is no upper limit.</p>
+  <p class="stuart">
+    <happy></happy> Free!</p>
+  <p class="kevin">Yes, you can get Linux shared hosting server free with a domain name. Or at a very low cost.</p>
+  <p class="kevin">Remember offers are only applicable to new users. From next year you have to pay the full amount. And don&#8217;t use completely
+    free hosting servers as are not reliable, they may run ads and some may steal your personal and private information.
+    So always go for trusted web hosting servers.</p>
+  <p class="stuart">hmm ok.</p>
+</div>
+
+
+<!-- Chapter Navigation For Middle Topics-->
+<div class="chapter-nav">
+  <div class="dual-buttons">
+    <a href="#" class="button flat primary medium">Previous Topic</a>
+    <a href="#" class="button flat primary medium">Next Topic</a>
+  </div>
+</div>
+
+
+<!--List-->
+<div id="list-base" class="list-base"></div>

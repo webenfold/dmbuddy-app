@@ -1,0 +1,79 @@
+<img draggable="false" class="headImg" src="../media/business-home.jpg">
+
+<div class="home-heading">
+  <h2>Digital Marketing Course for Business Promotion</h2>
+</div>
+
+<div class="course-overview">
+  <table cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td class="tile">
+        <span>
+          <span class="icon icon-course icon-white"></span>
+          <span>DM Course</span>
+        </span>
+      </td>
+      <td>
+        <table cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td>
+              <span class="icon icon-next icon-white"></span>
+            </td>
+            <td>Level</td>
+            <td>Easy</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="icon icon-next icon-white"></span>
+            </td>
+            <td>Suitable</td>
+            <td>Novice</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="icon icon-next icon-white"></span>
+            </td>
+            <td>Chapter</td>
+            <td>
+              <text class="a1-chapters">X</text>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <span class="icon icon-next icon-white"></span>
+            </td>
+            <td>Topic</td>
+            <td>
+              <text class="a1-topics">Y</text>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div class="continue-base"></div>
+
+<div id="chapter-base" class="list-base"></div>
+
+<div class="home-content">
+  <p>
+    <a id="obj-1" class="button primary flat large" href="dmbuddy.htm?page=course&nav-cph=1&nav-top=1">
+      Start Learning
+    </a>
+  </p>
+</div>
+
+
+<p class="title-bar">More at DM Buddy</p>
+<div class="home-tiles">
+  <a class="button">
+    <span class="icon icon-guide icon-gray"></span>
+    <span>DM GUIDE</span>
+  </a>
+  <a class="button">
+    <span class="icon icon-ask icon-gray"></span>
+    <span>ASK BUDDIES</span>
+  </a>
+</div>

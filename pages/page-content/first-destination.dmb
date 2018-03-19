@@ -1,0 +1,21 @@
+<h3>Welcome to DM BUDDY</h3>
+
+<div>
+  <p><b>Select your objective</b>, for the first time in order to get the personalized course. You can also change the objective later.</p>
+</div>
+
+<div>
+  <div class="vertical-buttons">
+    <a id="obj-1" class="button primary flat large" onClick="select_objective(1)">
+      Promote business
+    </a>
+    <hr class="light">
+    <a id="obj-2" class="button primary flat large" onClick="select_objective(2)">
+      Making money online
+    </a>
+    <hr class="light">
+    <a id="obj-3" class="button primary flat large" onClick="select_objective(3)">
+      Become a webmaster
+    </a>
+  </div>
+</div>

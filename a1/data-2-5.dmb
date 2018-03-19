@@ -1,0 +1,96 @@
+<!-- Chapter & Topic Bar -->
+<div class="chapter-title">
+  <p>
+    <!-- Chapter -->
+    <span class="chapterx">2
+      <sup>nd</sup> Chapter</span>
+    <!-- Topic -->
+    <span class="chapterx">5
+      <sup>th</sup> Topic</span>
+    <!-- Close Button -->
+    <a href="dmbuddy.htm?page=home">
+      <img draggable="false" src="../images/closetopic.png">
+    </a>
+  </p>
+</div>
+
+
+<!-- Featured Image -->
+<img draggable="false" src="media/course/a1/125.jpg">
+
+
+<!-- Content -->
+<div class="contentBox">
+  <h2>Understanding Web Hosting Server</h2>
+  <h4>What is web hosting server?</h4>
+  <p style="text-align: justify;">Web hosting server is a publicly accessible hosting computer. We host our website and its related files on a web hosting
+    server to make it accessible online for everyone. Web hosting servers are also called as web servers or just server.</p>
+  <p class="definition">A web server is a computer system that processes requests via HTTP (Hypertext transfer protocol). It serves website files
+    to the visitors.</p>
+  <h4>Hosting a Website</h4>
+  <p>
+    <span class="highlighted">Hosting a website means uploading and saving its related files and media on a server. These files can then be accessed
+      online through a domain name pointing towards that particular server address</span>.</p>
+  <p class="note">Every server is a computer. Every computer has RAM, ROM, and CPU which is also called as resources.</p>
+  <p>RAM: Random Access Memory (Application or program requires RAM to run).</p>
+  <p>ROM: Read Only Memory – Storage (Your images, videos, and other files need to get stored on your storage device inside
+    your computer).</p>
+  <p>CPU: Central Processing Unit &#8211; (Application or program requires CPU to run).</p>
+  <h3>Types of Web Hosting Servers</h3>
+  <p style="text-align: justify;">There are many types of web hosting servers. These are categorized based on their server resource and operating system.</p>
+  <h4>Different Web hosting servers based on resource</h4>
+  <ol>
+    <li style="text-align: justify;">
+      <b>Shared Hosting Server:</b> These are most commonly used and affordable Hosting Environment. These Web Hosting Servers
+      shares its resources with the wide network of online connected shared servers.</li>
+    <li>
+      <b>VPS (Virtual Private Server):</b> These hosting servers are more powerful and costly.</li>
+    <li style="text-align: justify;">
+      <b>Dedicated Hosting Server:</b> Unlike shared hosting server and VPS. Dedicated servers are not shared with anyone. These
+      are very powerful and costly servers. Recommended only for the very big organization.</li>
+    <li style="text-align: justify;">
+      <b>Cloud Hosting:</b> This type of web hosting server relies on cloud hosting environment. In Cloud hosting, you can anytime
+      increase and decreases your server resources according to your need. And pay accordingly. Setting up cloud hosting
+      environment is difficult now, but I believe it will be simplified in future.</li>
+  </ol>
+  <h4>Different Web hosting servers based on the operating system</h4>
+  <ol>
+    <li>
+      <b>Windows Hosting Server:</b> Web hosting that uses Windows as an operating system.</li>
+    <li>
+      <b>Linux Hosting Server:</b> Web hosting that uses Linux as an operating system. It is more secure, affordable, and popular.</li>
+  </ol>
+  <h4>Hosting Recommendation</h4>
+  <p>It’s perfectly suitable to start a website with Linux shared hosting servers. Shared hosting server is powerful enough
+    to host most of the business website. Good Linux shared servers can run an e-commerce website.</p>
+</div>
+<div class="chatBox">
+  <p class="bob">Kevin, web hosting server is a computer?</p>
+  <p class="kevin">Yes Bob</p>
+  <p class="bob">So can we use our computer as a web hosting server?</p>
+  <p class="kevin">Yes, but it is not that simple. Even though if you technically manage to turn your computer into web hosting server it
+    will be practically difficult to keep it running 24&#215;7. When your computer goes down, your website goes down.</p>
+  <p class="bob">I see</p>
+  <p class="stuart">How much a web hosting server costs?</p>
+  <p class="kevin">Rates varies depending upon the web hosting providers, server resources etc. It starts free and there is no upper limit.</p>
+  <p class="stuart">
+    <happy></happy> Free!</p>
+  <p class="kevin">Yes you can get Linux shared hosting server free with domain name. Or at a very low cost.</p>
+  <p class="kevin">Remember offers are only applicable for new users. From next year you have to pay the full amount. And don&#8217;t use
+    completley free hosting servers as are not reliable, they may run ads and some may steal your personal and private information.
+    So always go for trusted web hosting servers.</p>
+  <p class="stuart">hmm ok.</p>
+</div>
+
+
+<!-- Chapter Navigation For Middle Topics-->
+<div class="chapter-nav">
+  <div class="dual-buttons">
+    <a href="#" class="button flat primary medium">Previous Topic</a>
+    <a href="#" class="button flat primary medium">Next Topic</a>
+  </div>
+</div>
+
+
+<!--List-->
+<div id="list-base" class="list-base"></div>

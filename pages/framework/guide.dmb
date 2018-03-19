@@ -1,0 +1,20 @@
+<header id="topHeader" class="green">
+  <div id="drawer" class="drawer transition" onClick="return toggleMenu(1);">
+    <img class="simple-image" draggable="false" src="../media/default.png" data-background-image="media/drawer.png">
+  </div>
+  <a href="#" id="logo" onClick="resetObjective();" class="obj-logo"></a>
+</header>
+<div class="content-base">
+  <navigation id="navigation" class="transitionFast">
+    <div class="logo-img">
+      <a href="#" onCLick="continueReading();">
+        <img draggable="false" src="../media/default.png" data-background-image="media/logo.png">
+      </a>
+    </div>
+    <div id="inner-menu" class="innerMenu"></div>
+  </navigation>
+  <cover id="cover"></cover>
+  <content id="content" class="texture-back transition">
+    <div id="inner-content"></div>
+  </content>
+</div>

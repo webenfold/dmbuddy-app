@@ -1,0 +1,190 @@
+<!-- Chapter & Topic Bar -->
+<div class="chapter-title">
+  <p>
+    <!-- Chapter -->
+    <span class="chapterx">2
+      <sup>nd</sup> Chapter</span>
+    <!-- Topic -->
+    <span class="chapterx">2
+      <sup>nd</sup> Topic</span>
+    <!-- Close Button -->
+    <a href="dmbuddy.htm?page=home">
+      <img draggable="false" src="../images/closetopic.png">
+    </a>
+  </p>
+</div>
+
+
+<!-- Featured Image -->
+<img draggable="false" src="media/course/a1/122.gif">
+
+
+<!-- Content -->
+<div class="contentBox">
+  <h2>Different type of websites</h2>
+  <p style="text-align: justify;">Before deciding a website for your business. You must understand its type. Websites are categorized in multiple ways. These
+    categories are based on the number of pages, design, and functionality.</p>
+  <h4>Types of the website based on pages</h4>
+  <ol>
+    <li>
+      <b>One page website:</b>
+      <span style="background-color: #f9e6a5;">It has a single web page.</span>
+    </li>
+    <li style="text-align: justify;">
+      <b>Multi-page website:</b>
+      <span style="background-color: #f9e6a5;">It contains the collection of web pages.</span> Here user navigates from one web page to another using navigation menu.</li>
+  </ol>
+  <p class="note">The number of pages in a website doesn&#8217;t decide the amount of information.</p>
+  <p style="text-align: justify;">A one-page website and multi-page website can have the same amount of content irrespective of their number of pages. It’s
+    all depends upon their design. Thus a number of pages are not the ideal criteria of website classification.</p>
+  <h4>Types of the website based on design</h4>
+  <ol>
+    <li style="text-align: justify;">
+      <b>Responsive website: </b>Based on the responsive bootstrap framework.
+      <span style="background-color: #f9e6a5;">A responsive website can fit on any device.</span> Most of the modern websites are now responsive.</li>
+    <li style="text-align: justify;">
+      <b>Non-Responsive Website:</b> These websites are specially created for the specific website. These websites don’t change
+      their dimension based on the devices.</li>
+  </ol>
+  <p class="note">The actual classification of the website is based on the features and functionality of the website.</p>
+  <h4>Types of the website based on features and functionality</h4>
+  <ol>
+    <li>
+      <b>Static Website</b>
+    </li>
+    <li>
+      <b>Dynamic Websites</b> and</li>
+    <li>
+      <b>Portal websites</b>
+    </li>
+  </ol>
+  <p style="text-align: justify;">There are more than a billion of websites on the internet. While you browse the internet and starts visiting few websites.
+    Then you will notice that some websites are very interactive where you can search information what you are looking for,
+    fill a form in order to get an answer to your query. Or some are very simple, where you can just navigate between pages
+    using links and menus. There are verities of websites and they all differ because of their features and functionality.</p>
+  <p style="text-align: justify;">Features and functionalities make all difference. Many people don’t notice or bother the differences. They just continue
+    surfing and browsing the internet. But a technical person can simply notice this differences and categorize these websites
+    accordingly. It’s also important for entrepreneurs to understand the differences. So that, they can identify – which
+    website will be the best for their business.</p>
+  <h3>Static Website</h3>
+  <p style="text-align: justify;">
+    <span style="background-color: #f9e6a5;">A static website is a collection of simple HTML web pages.</span> It does not ask or store any information from users.
+    They are unable to perform modern functions such as – dynamic search, live chat. They cannot generate dynamic pages and
+    ask for comments and reviews from users.</p>
+  <p class="example" style="background-color: #8fbc8f; color: #ffffff;">Portfolio, catalog, showcase type websites etc.</p>
+  <p class="definition" style="background-color: #5e384b; color: #ffffff;">A static website is a collection of static web pages. Static web pages are often HTML documents stored as files. They contain
+    only client-side processing languages such as HTML, CSS, and JS.</p>
+  <p style="text-align: left;">These websites are good only for representing the information that rarely changes. A static web page displays the same
+    information for all users.</p>
+  <h3>Dynamic Website</h3>
+  <p style="text-align: justify;">
+    <span style="background-color: #f9e6a5;">A dynamic website is a collection dynamic web pages.</span> These are modern websites and it can ask and store information
+    from users. It has modern functions such as – dynamic search, live chat, comments, reviews, feedback and more.</p>
+  <p class="example" style="color: #ffffff; background-color: #8fbc8f;">All modern interactive websites such as news websites, gaming websites, blogs etc.</p>
+  <p class="definition" style="background-color: #5e384b; color: #ffffff;">A dynamic website is a collection of dynamic web frame. Dynamic web frame is a skeleton of a dynamic website and does not
+    contains any information. Dynamic website creates web page based on dynamic web frame by fetching data from the database
+    using server-side processing languages such as PHP.</p>
+  <h3>Portal Website</h3>
+  <p style="text-align: justify;">A portal website is an advanced version of a dynamic website.
+    <span style="background-color: #f9e6a5;">It contains user-specific dynamic web pages.</span> It has all the functions of the dynamic website. These websites are
+    like a portal for their clients and registered users to explore their private data.</p>
+  <p class="example" style="background-color: #8fbc8f; color: #ffffff;">E-Commerce website such as Amazon, banking website etc.</p>
+  <p class="definition" style="background-color: #5e384b; color: #ffffff;">A portal website is same as dynamic website. Additionally, it uses the database to store user information and provide automatic
+    real-time user authentication and registration.</p>
+  <h4>Which website to select?</h4>
+  <p style="text-align: justify;">For a normal user, all websites are same. So just select the websites according to your need and budget. If you want to
+    sell anything or to provide services online, then chose the portal website. A simple business can go for a dynamic website.
+    There is no specific reason to select static website. Business selects static website, as they are more secure and cheaper
+    than the dynamic website.</p>
+  <p style="text-align: justify;">If you are still confused. Then Read the non-technical comparison between a static website and dynamic website. You can
+    also use ASK Buddy section for technical clarifications and suggestions, directly from an expert.</p>
+  <h4>Non-technical Comparison between the static website and dynamic website</h4>
+  <div class="scrollBase">
+    <table class="dmtable">
+      <tbody>
+        <tr>
+          <th>Static Website</th>
+          <th>Dynamic Website</th>
+        </tr>
+        <tr>
+          <td>Low cost</td>
+          <td>Comparatively High Cost</td>
+        </tr>
+        <tr>
+          <td>You cannot modify any data</td>
+          <td>Data can be easily be modified by logging into administrative panel</td>
+        </tr>
+        <tr>
+          <td>A limited number of pages. No admin panel to add additional pages</td>
+          <td>Any number of additional pages can be added</td>
+        </tr>
+        <tr>
+          <td>The user cannot perform a search, comment, reviews etc.</td>
+          <td>Dynamic features are available</td>
+        </tr>
+        <tr>
+          <td>Data cannot be modified without editing the file itself. So it is secure.</td>
+          <td>Extra security measures must be taken to safeguard the data.</td>
+        </tr>
+        <tr>
+          <td>These websites can easily be cloned.</td>
+          <td>These websites cannot be cloned easily.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <h4>Case Study</h4>
+  <p style="text-align: justify;">Read it carefully and try to answer the question provided below:</p>
+  <ol class="case">
+    <li>A famous local automobile garage, needs a website, just to show their services and pricing to their visitors.</li>
+    <li>A saloon needs a website to show their services and pricing. They also need an inquiry form and fashion news section.</li>
+    <li>A wholesale business of designers clothing needs a website to sell their clothes online.</li>
+  </ol>
+  <p style="text-align: left;">
+    <b>Question:</b> Which type of website will be suitable for each case Scenario?</p>
+</div>
+<div class="chatBox">
+  <p class="kevin">Tell me the answer, Stuart!</p>
+  <p class="stuart">Case 1 Static website
+    <br /> Case 2 Dynamic Website
+    <br /> Case 3 Portal Website</p>
+  <p class="kevin">Correctly answered</p>
+  <p class="bob">It was easy</p>
+  <p class="stuart">Hmm so why didn’t you answered</p>
+  <p class="bob">I have given you the chance!</p>
+  <p class="stuart">
+    <funny></funny> Don’t lie</p>
+  <p class="bob">
+    <mad></mad> You think you are smart!</p>
+  <p class="stuart">I don’t have to say, everybody knows</p>
+  <p class="bob">So Mr. smart, I have one question for you</p>
+  <p class="stuart">Of course</p>
+  <p class="bob">Do you use internet banking?</p>
+  <p class="stuart">Yes I do</p>
+  <p class="bob">So tell me, internet banking website comes under which category.</p>
+  <p class="stuart">hmm I think it’s dynamic</p>
+  <p class="bob">
+    <funny></funny> It is a portal website. You bonehead!</p>
+  <p class="stuart">
+    <crying></crying> I am not bonehead!</p>
+  <p class="kevin">Bob shut up. Stuart, don’t cry. I know you are not bonehead. Just think, do we log-in or sign-in when to use internet banking.</p>
+  <p class="stuart">Yes, we do</p>
+  <p class="kevin">
+    <smile></smile> So it is a portal website. Simple!</p>
+</div>
+
+
+<!-- Chapter Navigation For Middle Topics-->
+<div class="chapter-nav">
+  <div class="dual-buttons">
+    <a href="dmbuddy.htm?page=course&nav-cph=2&nav-top=1" class="button flat gray medium">
+      Previous Topic
+    </a>
+    <a href="dmbuddy.htm?page=course&nav-cph=2&nav-top=3" class="button flat primary medium">Next Topic
+    </a>
+  </div>
+</div>
+
+
+<!--List-->
+<div id="list-base" class="list-base"></div>

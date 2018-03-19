@@ -1,0 +1,99 @@
+<!-- Chapter & Topic Bar -->
+<div class="chapter-title">
+  <p>
+    <!-- Chapter -->
+    <span class="chapterx">2
+      <sup>nd</sup> Chapter</span>
+    <!-- Topic -->
+    <span class="chapterx">3
+      <sup>rd</sup> Topic</span>
+    <!-- Close Button -->
+    <a href="dmbuddy.htm?page=home">
+      <img draggable="false" src="../images/closetopic.png">
+    </a>
+  </p>
+</div>
+
+
+<!-- Featured Image -->
+<img draggable="false" src="media/course/a1/123.png">
+
+
+<!-- Content -->
+<div class="contentBox">
+  <h2>Website requirements</h2>
+  <p style="text-align: justify;">Before creating a website for your business. You must understand the basic requirements to host a website.</p>
+  <p style="text-align: left;">In order to host a website, you require following three things:</p>
+  <ol>
+    <li>
+      <b>Domain Name:</b>
+      <span class="highlighted">Address of your website</span>.</li>
+    <li>
+      <b>Web Hosting:</b>
+      <span class="highlighted">Server/computer used to store your files online</span>.</li>
+    <li>
+      <b>Website Files:</b>
+      <span class="highlighted">Your website files including HTML documents, images etc</span>. This constitutes your website.</li>
+  </ol>
+  <p>Without these, your website will not be accessible online. If you are not so technical, then read the below example which
+    illustrates these requirements through the real world example.</p>
+  <p class="example" style="background-color: #8fbc8f; color: #ffffff;">Let’s consider your website as real-world office premises as you can see in the above picture.
+    <br />
+    <br class="none" />
+    <strong>First Step:</strong> To set up an office. The first thing you need to do is to purchase the address for your office building.
+    Your office address in this example can be represented as a domain name.
+    <br />
+    <br class="none" />
+    <strong>Second Step:</strong> Your office address will be useless if you don’t construct the office building. Creating infrastructure
+    is a second step to set up an office. Your office building (infrastructure) in this example can be represented as a web
+    hosting server.
+    <br />
+    <br class="none" />
+    <strong>Third Step:</strong> Now after constructing an office building. The last thing we require is furniture and equipment.
+    The empty office building can’t be used for any purpose. In this example, furniture and equipment are like your website
+    files.</p>
+  <p>So, to host a website online, you must have a Web Hosting Server and Domain Name. Next, you will understand what is the
+    Domain Name and Web Hosting and how to purchase these.</p>
+</div>
+<div class="chatBox">
+  <p class="stuart">Got it!</p>
+  <p class="bob">Ok, then I should purchase Domain name and Web hosting package. Kevin, can you explain me a little bit about the domain
+    name and how to purchase one.</p>
+  <p class="kevin">You will learn more about Domain name in next chapter Bob!</p>
+  <p class="bob">How you are so sure!</p>
+  <p class="kevin">It&#8217;s a second time I am going through this course.</p>
+  <p class="bob">Hmm! That&#8217;s why you know so much!</p>
+  <p class="kevin">
+    <love></love> I love this App</p>
+  <p class="stuart">Guys finally I have decided to create my website by myself.</p>
+  <p class="bob">What? You will create your website.</p>
+  <p class="stuart">Yes, I will</p>
+  <p class="bob">
+    <funny></funny> You can&#8217;t even play the guitar properly!</p>
+  <p class="stuart">Ha ha ha ha! Not so funny. Just wait and watch. I bet, that I will create a better website than you!</p>
+  <p class="bob">Don&#8217;t worry, I have no plan to create my website on my own. But I will get it developed by someone better than you.</p>
+  <p class="stuart">Of course! You can&#8217;t even create it!</p>
+  <p class="bob">I can. But I have other things to do.</p>
+  <p class="stuart">Then why you need to purchase a Domain Name and Web Hosting?</p>
+  <p class="bob">To understand, how it works. So that, I can implement it effectively in my business. After all, I have to sell my juicy
+    bananas.</p>
+  <p class="kevin">
+    <smile></smile> Very good Bob. Its good practice to know how a website and other digital technologies work. It can save you
+    from lots of online scams.</p>
+</div>
+
+
+<!-- Chapter Navigation For Middle Topics-->
+<div class="chapter-nav">
+  <div class="dual-buttons">
+    <a href="dmbuddy.htm?page=course&nav-cph=2&nav-top=2" class="button flat gray medium">
+      Previous Topic
+    </a>
+    <a href="dmbuddy.htm?page=course&nav-cph=2&nav-top=4" class="button flat primary medium">Next Topic
+    </a>
+  </div>
+</div>
+
+
+<!--List-->
+<div id="list-base" class="list-base"></div>

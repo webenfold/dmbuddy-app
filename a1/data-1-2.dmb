@@ -1,0 +1,171 @@
+<!-- Chapter & Topic Bar -->
+<div class="chapter-title">
+  <p>
+    <!-- Chapter -->
+    <span class="chapterx">1
+      <sup>st</sup> Chapter</span>
+    <!-- Topic -->
+    <span class="chapterx">2
+      <sup>nd</sup> Topic</span>
+    <!-- Close Button -->
+    <a href="dmbuddy.htm?page=home">
+      <img draggable="false" src="../images/closetopic.png">
+    </a>
+  </p>
+</div>
+
+
+<!-- Featured Image -->
+<img draggable="false" src="media/course/a1/112.jpg">
+
+
+<!-- Content -->
+<div class="contentBox">
+  <h2>Understanding Digital Marketing</h2>
+  <p>Marketing is an essential part of any business. In this topic, you will understand the fundamentals of traditional marketing
+    and digital marketing.</p>
+  <h3>Understand marketing</h3>
+  <p class="definition">Marketing is the science and art of exploring, creating, and delivering value to satisfy the needs of a target market at
+    a profit.</p>
+  <p>The above definition is self-explanatory. Now, let&#8217;s elaborate marketing into three basic components.</p>
+  <h4>Components of marketing</h4>
+  <ol>
+    <li>
+      <strong>Generating Awareness:</strong> Here I am talking about the consumer awareness. Businesses increase consumer awareness
+      by employing a wide range of marketing techniques. The main reason of creating consumer awareness is to
+      <span class="highlighted">make consumers aware of particular products or services</span>. It’s basically a passive marketing technique, where
+      marketers teach consumers – how they can use a particular product or services. Companies producing high-quality products
+      or providing top-notch customer service must create public awareness of their valued products or services through commercials,
+      billboards or digital marketing campaigns.</li>
+    <li>
+      <strong>Creating Need:</strong> If your audience are already aware of a particular product or service you offer. Then the next
+      step will be
+      <span class="highlighted">creating the need for that particular product or service in the customers mind</span>. If someone doesn&#8217;t need
+      that product or service, he or she won’t buy it. Don’t get confused between need and want. Want is a step ahead of
+      need and is largely dependent on the needs of customers themselves. The customer want particular product or service
+      only when they are aware and they had need of it. Creating want is a complex procedure and depends upon the many factors.
+      Many times it’s not in the controls of even the most expert marketing professionals.</li>
+    <li>
+      <strong>Satisfying the Demand:</strong> Generating awareness and creating need, are the essential parts of any marketing campaign.
+      But it’s just not enough. In order to sustain the business and make profit. You actually need to sell your product
+      or services (thereby, by satisfying the demand).
+      <span class="highlighted">It means identifying the potential customer (consumers who want a particular product or service) and fulfilling their
+        demand at a profit</span>. Big brands, companies, and business often release multiple types of discounts, offers,
+      sales etc. Just to satisfy the demands of their customer before their competitors.</li>
+  </ol>
+  <h3>Traditional Marketing</h3>
+  <p>Traditional marketing refers to any type of promotion, advertising or campaign that has been in use by companies for years,
+    which has a proven success rate and that does not involve the use of the internet. Methods of traditional marketing can
+    include television, radio and print media, such as newsletters, billboards, flyers, newspaper print ads etc.</p>
+  <p class="note">As we are approaching towards the future, our marketing and promotion strategies are evolving over the time. We are now
+    moving from old traditional marketing towards digital marketing. We are experimenting and inventing new ways to target
+    and reach, our potential customers mind.</p>
+  <h3>Digital marketing</h3>
+  <p>Digital marketing refers to any type of promotion, advertising or campaign that runs on a digital platform (such as a computer,
+    laptop, tablet, smartphones, mobile etc) using internet is digital marketing. We can also say, Digital marketing is the
+    promotion of any company, business, product, services etc. on the worldwide network of the internet.</p>
+  <p class="definition">Digital marketing is a wide term used for the targetable, measurable, and interactive marketing process of products or
+    services using digital technologies over a global network of internet in order to reach, to the widest majority of the
+    audiences.
+  </p>
+  <p class="note">Digital marketing is known by many names, such as Internet Marketing, Online Marketing, Digital Promotion, Internet Promotion,
+    Online Promotion etc. Further, you will learn more technical terms along with this course. You should be a member of
+    webmasters club to learn more about the new terms and techniques of digital marketing.</p>
+  <h4>How is digital marketing different than traditional marketing?</h4>
+  <p>Digital Marketing and traditional marketing are both an absolute form of marketing. The difference between traditional
+    and digital marketing lies in their strategies, process, and platform. Both can be combined effectively for exceptional
+    results.
+  </p>
+  <h4>Digital marketing versus traditional marketing</h4>
+  <div class="scrollBase">
+    <table class="dmtable">
+      <tbody>
+        <tr>
+          <th>Digital Marketing</th>
+          <th>Traditional Marketing</th>
+        </tr>
+        <tr>
+          <td>Cost effective</td>
+          <td>Costly</td>
+        </tr>
+        <tr>
+          <td>Wider reach</td>
+          <td>Geographically limited</td>
+        </tr>
+        <tr>
+          <td>Measurable</td>
+          <td>Not Measurable</td>
+        </tr>
+        <tr>
+          <td>Audience Targeting</td>
+          <td>Not Possible</td>
+        </tr>
+        <tr>
+          <td>Audience Tracking</td>
+          <td>Not Possible</td>
+        </tr>
+        <tr>
+          <td>Interactive</td>
+          <td>Less Interactive</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p>You will be enlightened with more detailed explanations of the above-written terms, on proceeding topic.</p>
+</div>
+<div class="chatBox">
+  <p class="stuart">Bob, I think we should combine traditional marketing with digital marketing.</p>
+  <p class="bob">Yeah, I think you are correct. Kevin, what you say!</p>
+  <p class="kevin">Yes, it is a good idea to use both traditional marketing and digital marketing. It allows a business to reach to its potential
+    customers from every possible channel.</p>
+  <p class="stuart">
+    <surprised></surprised> Is it compulsory for a business to do both digital marketing and traditional marketing together.</p>
+  <p class="kevin">No. It is not compulsory. You should choose digital marketing, traditional marketing or both, according to your business
+    type and investment capacity. Traditional marketing requires big investments when it comes to putting your advertisements
+    on newspaper, television etc. That&#8217;s why most of the small businesses and startups start with digital marketing.</p>
+  <p class="stuart">Oh, I see! Bob, I think Kevin wants to say digital marketing is cheaper. What do you think bob?</p>
+  <p class="bob">Of course Stuart. Digital marketing is cheaper than traditional marketing. I think we will learn more in next topic.</p>
+  <p class="kevin">There are few digital marketing techniques that require absolutely ZERO investment. We will learn those techniques in this
+    course.
+  </p>
+  <p class="bob">
+    <happy></happy> I can&#8217;t wait!</p>
+</div>
+
+
+<!-- Quiz Base -->
+<div class="quiz"></div>
+
+
+<!-- Chapter Navigation For Middle Topics-->
+<div class="chapter-nav">
+  <div class="dual-buttons">
+    <a href="dmbuddy.htm?page=course&nav-cph=1&nav-top=1" class="button flat gray medium">
+      Previous Topic
+    </a>
+    <a href="dmbuddy.htm?page=course&nav-cph=1&nav-top=3" class="button flat primary medium">Next Topic
+    </a>
+  </div>
+</div>
+
+
+<!--List-->
+<div id="list-base" class="list-base"></div>
+
+
+<!-- Should be created using CMB 2 -->
+<div class="qz-ele">
+  <p id="qz-q">Why Digital Marketing is effective for Business?</p>
+  <p class="qz-a">Reach potential customers offline and online</p>
+  <p class="qz-a">Reach potential customers online</p>
+  <p class="qz-a correct">Target and reach potential customers online</p>
+  <p class="qz-a">Cannot target but can reach potential customers offline</p>
+</div>
+
+<div class="qz-ele">
+  <p id="qz-q">Using Digital Marketing you can</p>
+  <p class="qz-a">Promote Business or Brand</p>
+  <p class="qz-a">Promote services and products to local users</p>
+  <p class="qz-a">Track / Monitor Digital Marketing campaign</p>
+  <p class="qz-a correct">All correct</p>
+</div>

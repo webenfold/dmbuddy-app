@@ -1,0 +1,616 @@
+// =========================================================
+// Chapter Title
+// =========================================================
+.chapter-title                                              {
+  width: 100%;
+  font-weight: bold;
+  background-color: #ffba3c;
+
+  .grid                                                     {
+    height: auto;
+    overflow: auto;
+    display: block;
+    }
+  img                                                       {
+    width: auto;
+    height: 34px;
+    filter: contrast(0) brightness(.65);
+    }
+  a                                                         {
+    float: right;
+    width: auto;
+    height: auto;
+    margin-right: 10px;
+    overflow: auto;
+    }
+  p                                                         {
+    display: block;
+    height: auto;
+    padding: 8px 0;
+    overflow: auto;
+    }
+  }
+// =========================================================
+
+
+
+.home-heading {
+  padding: 20px 10px;
+  background-color: #444;
+  border-top: 2px solid #666;
+
+  h2 {
+    color: #eee;
+    font-size: 24px;
+    line-height: 140%;
+  }
+}
+
+
+
+// =========================================================
+// Content
+// =========================================================
+.chapterx                                                   {
+  float: left;
+  padding: 2px 6px;
+  margin: 5px;
+  margin-left: 10px;
+  font-size: 16px;
+  color: #eee;
+  text-transform: uppercase;
+  background-color: #555;
+  border-radius: 4px;
+  }
+.contentBox                                                 {
+  text-align: justify;
+  padding: 10px 15px 30px;
+
+  img                                                       {
+    display: block;
+    width: 100%;
+    margin: 0 auto 20px;
+    height: auto;
+    box-shadow: 0 0 4px #ddd;
+    border-radius: 4px;
+    -webkit-pointer-event: none;
+    }
+  ol                                                        {
+    margin: 0;
+    text-align: left;
+    counter-reset: li;
+    padding-left: 30px;
+    li::before                                              {
+      content: counter(li);
+      display: inline-block;
+      width: 20px;
+      margin-left: -34px;
+      margin-right: 10px;
+      counter-increment: li;
+      background-color: #333;
+      text-align: right;
+      color: #ffba3c;
+      padding: 0 2px;
+      border-radius: 4px;
+      font-weight: bold;
+      }
+    }
+  ul                                                        {
+    padding-left: 20px;
+    li::before                                              {
+      content: "";
+      display: inline-block;
+      background-image: url(../images/ul.png);
+      background-size: cover;
+      width: 17px;
+      height: 17px;
+      margin-left: -25px;
+      margin-right: 8px;
+      text-align: right;
+      color: #999;
+      font-weight: bold;
+      }
+    }
+  li                                                        {
+    margin-bottom: 10px;
+    background-color: #eee;
+    padding: 2px 2px 2px 4px;
+    border-radius: 2px;
+    }
+  p                                                         {
+    margin: 0 auto 20px;
+    }
+  p, li                                                     {
+    span                                                    {
+      padding: 0 5px;
+      border-radius: 4px;
+      box-shadow: 0 0 0 1px #F7F7F7 inset;
+      }
+    }
+  em                                                        {
+    font-weight: bold;
+    color: #666;
+    }
+  sup                                                       {
+    font-size: 12px;
+    line-height: 12px;
+    }
+  .highlighted                                              {
+    background-color: #f9e6a5;
+    }
+  }
+p.note, p.example, p.definition                             {
+  display: block;
+  color: #fff;
+  padding: 5px;
+  border-radius: 0 4px 4px 4px;
+  margin: 40px 0 20px;
+  }
+p.note::before, p.example::before, p.definition::before     {
+  font-weight: bold;
+  display: block;
+  background-color: #333;
+  padding: 2px 5px;
+  margin: -24px 0 5px -5px;
+  border-radius: 4px 4px 0 0;
+  color: #ffba3c;
+  font-size: 16px;
+  line-height: 16px;
+  }
+p.note::before                                              {
+  content: "NOTE";
+  width: 40px;
+  }
+p.note                                                      {
+  background-color: #5f9ea0;
+  }
+p.example                                                   {
+  background-color: darkseagreen;
+  }
+p.example::before                                           {
+  content: "EXAMPLE";
+  width: 70px;
+  }
+p.definition                                                {
+  background-color: #5E384B;
+  }
+p.definition::before                                        {
+  content: "DEFINITION";
+  width: 86px;
+  }
+// ---------------------------------------------------------
+@media only screen and (max-width: 500px)                   {
+  .contentBox {
+    padding: 10px 5px 30px;
+    }
+  }
+// =========================================================
+
+
+
+// =========================================================
+// Content [Extra]
+// =========================================================
+ol.case                                                     {
+  counter-reset: elementcounter;
+  padding-left: 0;
+  li                                                        {
+    margin: 5px 0 5px 65px;
+    background-color: #eee;
+    border-radius: 4px;
+    line-height: 22px;
+    padding-left: 5px;
+    }
+  li:before                                                 {
+    content: "CASE " counter(elementcounter);
+    counter-increment: elementcounter;
+    font-weight: bold;
+    background-color: #333333;
+    width: 55px;
+    text-align: left;
+    margin-left: -70px;
+    padding: 1px 4px 2px;
+    border-radius: 4px;
+    color: #ffba3c;
+    margin-right: 9px;
+    }
+  }
+.scrollBase                                                 {
+  display: block;
+  height: auto;
+  overflow-x: scroll !important;
+  border: 2px solid #333;
+  margin: 30px 0 20px;
+  }
+.scrollBase::before                                         {
+  position: absolute;
+  content: "Scroll Horizontally";
+  background-color: #333;
+  width: 176px;
+  padding: 0 4px 0 5px;
+  color: #ffba3c;
+  margin-top: -20px;
+  margin-left: -2px;
+  border-radius: 4px 4px 0 0;
+  text-transform: uppercase;
+  font-weight: bold;
+  }
+table.dmtable                                               {
+  min-width: 300px;
+  width: 100%;
+  table-layout: fixed;
+  }
+.dmtable tbody                                              {
+  width: 100%;
+  tr                                                        {
+    width: 100%;
+    text-align: left;
+    th                                                      {
+      background: #ececec;
+      padding: 5px;
+      font-size: 120%;
+      width: 250px;
+      }
+    td                                                      {
+      background: #f0f0f0;
+      padding: 5px;
+      font-size: 14px;
+      }
+    }
+  }
+// =========================================================
+
+
+
+// =========================================================
+// Buddies Chat
+// =========================================================
+.chatBox                                                    {
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(circle at 100% 50%, transparent 20%, rgba(255, 255, 255, .3) 21%, rgba(255, 255, 255, .3) 34%, transparent 35%, transparent), radial-gradient(circle at 0% 50%, transparent 20%, rgba(255, 255, 255, .3) 21%, rgba(255, 255, 255, .3) 34%, transparent 35%, transparent) 0 -50px;
+  background-color: slategray;
+  background-size: 75px 100px;
+  height: auto;
+  overflow: auto;
+
+  p                                                         {
+    display: block;
+    height: auto;
+    overflow: auto;
+    padding: 4px;
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2);
+    background-color: rgba(220, 220, 220, 0.8);
+    border-radius: 6px;
+    margin: 15px 10px;
+    img                                                     {
+      float: left;
+      height: 50px;
+      width: 50px;
+      border: 3px solid #eee;
+      border-radius: 50%;
+      }
+    span                                                    {
+      margin-left: 60px;
+      margin-top: 36px;
+      display: block;
+      padding: 5px;
+      background-color: #f9f9f9;
+      border-radius: 4px;
+      }
+    }
+  nm                                                        {
+    font-weight: bold;
+    float: left;
+    text-transform: uppercase;
+    background-color: #333;
+    color: #ffba3c;
+    padding: 5px;
+    margin-left: 5px;
+    border-radius: 4px;
+    margin-top: 3px;
+    }
+  funny, angry, confused, crying, happy, smile, love,
+  quiet, mad, surprised                                     {
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+    margin: -4px 2px -7px 2px;
+    background-size: contain;
+    }
+  funny                                                     {
+    background-image: url(/images/emo/funny.png);
+    }
+  angry                                                     {
+    background-image: url(/images/emo/angry.png);
+    }
+  confused                                                  {
+    background-image: url(/images/emo/confused.png);
+    }
+  crying                                                    {
+    background-image: url(/images/emo/crying.png);
+    }
+  happy                                                     {
+    background-image: url(/images/emo/happy.png);
+    }
+  smile                                                     {
+    background-image: url(/images/emo/smile.png);
+    }
+  love                                                      {
+    background-image: url(/images/emo/love.png);
+    }
+  quiet                                                     {
+    background-image: url(/images/emo/quiet.png);
+    }
+  mad                                                       {
+    background-image: url(/images/emo/mad.png);
+    }
+  surprised                                                 {
+    background-image: url(/images/emo/surprised.png);
+    }
+  }
+// =========================================================
+
+
+
+// =========================================================
+// Chapter Navigation
+// =========================================================
+.chapter-nav                                                {
+  padding: 30px 0;
+  background-color: #f4f4f4;
+  text-align: center;
+  }
+.previousArticle                                            {
+  float: left;
+  p                                                         {
+    -webkit-filter: grayScale(1) contrast(1.4);
+    }
+  }
+.nextArticle                                                {
+  float: right;
+  .nextchapter                                              {
+    color: #fff;
+    background-color: #0086B5;
+    box-shadow: 0 0 0 3px #0086B5;
+    }
+  }
+.previousArticle, .nextArticle                              {
+  width: 50%;
+  p, a{
+    margin: 0 auto;
+    }
+  }
+@media only screen and (max-width: 500px)                   {
+  .previousArticle, .nextArticle                            {
+    width: 200px;
+    display: block;
+    margin: 5px auto;
+    }
+  }
+// =========================================================
+
+
+
+// =========================================================
+// Topic List
+// =========================================================
+.list-base                                                  {
+  display: block;
+  overflow: hidden;
+  }
+.topic-list                                                 {
+  width: 100%;
+  tr                                                        {
+    display: block;
+    margin: 0;
+    padding: 10px;
+    background-color: #eee;
+    border-top: 1px solid #ddd;
+    cursor: pointer;
+    span                                                  {
+      display:  inline-block;
+      width: 40px;
+      line-height: 26px;
+      border: 1px solid #aaa;
+      text-indent:  5px;
+      border-radius: 4px;
+      }
+    td:first-child                                          {
+      width:  50px;
+      height:  40px;
+      border-radius: 4px;
+      font-weight: bold;
+      }
+    }
+  tr:first-child                                            {
+    border-top: 0;
+    }
+  tr.active                                                 {
+    background-color: #555;
+    color: #eee;
+    span                                                    {
+      border-color: #FFBA3C;
+      background-color:  #FFBA3C;
+      color:  #555;
+      }
+    }
+  }
+.chapter-list                                               {
+  width: 100%;
+  border-top: 1px solid #ddd;
+  tr:not(.chapter-data)                                     {
+    display: block;
+    margin: 0;
+    padding: 10px 0 10px 10px;
+    background-color: #eee;
+    cursor: pointer;
+    span                                                    {
+      display: inline-block;
+      width: 62px;
+      line-height: 26px;
+      border: 1px solid #aaa;
+      text-indent: 5px;
+      border-radius: 4px;
+      margin-right: 10px;
+      }
+    td:first-child                                          {
+      height: 40px;
+      border-radius: 4px;
+      font-weight: bold;
+      }
+    td:nth-child(2) {
+      width: 100%;
+      }
+    span.icon-next {
+      width: 16px;
+      height: 16px;
+      padding: 0;
+      margin: 0 5px;
+      border: 0;
+      }
+    }
+  // tr:last-child                                             {
+  //   border-bottom: 0;
+  //   }
+  tr:not(.chapter-data).active                              {
+    span.icon-next                                          {
+      transform: rotate(90deg);
+      }
+    }
+  tr.chapter-data                                           {
+    display: block;
+    position: relative;
+    height: 0;
+    border-bottom: 1px solid #ddd;
+    overflow: hidden;
+    }
+  tr.chapter-data                                           {
+    position: relative;
+    padding: 0;
+    overflow: hidden;
+    >td{
+      display: block;
+      height: auto;
+      overflow: auto;
+      border-top: 1px solid #ddd;
+      background-color: #555;
+      border-radius: 0;
+
+      tr{
+        background-color: #444;
+        border-top: 1px solid rgba(255,255,255,0.2);
+
+        >td {
+          color: #eee;
+          span {
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            }
+          }
+        }
+      }
+    }
+  tr.chapter-data.active                                    {
+    height: auto;
+    overflow: auto;
+    }
+  }
+// =========================================================
+
+.title-bar                                                  {
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  color: #666;
+  padding: 12px 0 12px;
+  background-color: #e7e7e7;
+  border-top: 2px solid #ddd;
+  border-bottom: 2px solid #ddd;
+}
+
+
+
+.notify {
+  position:  relative;
+  background-color: #32475C;
+  padding: 50px 0 10px;
+
+  span.bob-says{
+    width: 80px;
+    height: 80px;
+  }
+
+  >span {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 100px;
+    text-indent: 10px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    line-height: 40px;
+    border-radius: 30px;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.4);
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.8);
+    .icon-close {
+      float: right;
+      width: 30px;
+      height: 30px;
+      margin: 5px 5px 5px 0;
+      border-radius: 50%;
+      }
+    }
+  .button.large {
+    margin-top:  20px;
+    }
+  table {
+    width: 100%;
+    tr td {
+      padding:  10px;
+      text-align:  left;
+      }
+    td:first-child {
+      width: 60px;
+      span {
+        display:  inline-block;
+        width: 60px;
+        background-size:  cover;
+        height: 60px;
+        }
+      }
+    td:nth-child(2) {
+      position: relative;
+      padding-left:  0;
+      span {
+        display:  block;
+        padding: 10px;
+        background-color:  #eee;
+        border-radius: 10px;
+        p {
+          margin-bottom: 10px;
+          }
+        p:first-child {
+          font-weight: bold;
+          font-size: 18px;
+          }
+        }
+      }
+    td:nth-child(2):before {
+      position:  absolute;
+      left: -20px;
+      top: 50%;
+      margin-top: -40px;
+      content: "";
+      display: inline-block;
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: 14px 20px 6px 0;
+      border-color: transparent #EEEEEE transparent transparent;
+      }
+    }
+  }

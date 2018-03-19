@@ -1,0 +1,138 @@
+<!-- Chapter & Topic Bar -->
+<div class="chapter-title">
+  <p>
+    <!-- Chapter -->
+    <span class="chapterx">1
+      <sup>st</sup> Chapter</span>
+    <!-- Topic -->
+    <span class="chapterx">4
+      <sup>th</sup> Topic</span>
+    <!-- Close Button -->
+    <a href="dmbuddy.htm?page=home">
+      <img draggable="false" src="../images/closetopic.png">
+    </a>
+  </p>
+</div>
+
+
+<!-- Featured Image -->
+<img draggable="false" src="media/course/a1/114.jpg">
+
+
+<!-- Content -->
+<div class="contentBox grid">
+  <h2>Different approaches of digital marketing</h2>
+  <p>Till now, I assume you have got the basic idea of
+    <strong>Digital Marketing</strong> and its importance. Now let’s discuss and elaborate different approaches of Digital Marketing.
+    After completing this course, you will be able to implement it in your business.</p>
+  <p>
+    <span class="highlighted">There are two different types of digital marketing approach.
+      <strong>Organic</strong> and
+      <strong>Inorganic</strong> approach</span>. Let’s discuss this in detail.</p>
+  <h3>Organic approach</h3>
+  <p>Organic means natural. As the name suggests, it is a
+    <span class="highlighted">type of digital marketing approach that doesn&#8217;t require any investment</span>. It only requires proper skills,
+    not a direct investment for digital promotion. It is the very common approach and almost all companies implement it.
+    The only drawback with the organic approach is, it has huge competition.</p>
+  <p>Organic digital marketing includes
+    <strong>SEO</strong> (Search Engine Optimization),
+    <strong>SMO</strong> (Social Media Optimization) and more. Let&#8217;s discuss these in brief.</p>
+  <ol>
+    <li>
+      <b>SEO &#8211; Search Engine Optimization:</b>
+      <span style="background-color: #f9e6a5;">It is a process of improving your website ranking on search engines such as
+        <strong>Google</strong> without paying anything. SEO is completely free.</span>
+    </li>
+    <li>
+      <b>SMO – Social Media Optimization:</b>
+      <span style="background-color: #f9e6a5;">Promoting, optimizing, improving and enhancing your business presence on social media networks without running advertisements,
+        is known as Social Media Optimization. SMO is completely free.</span>
+    </li>
+  </ol>
+  <h3>Inorganic approach</h3>
+  <p style="text-align: justify;">It is basically the
+    <span class="highlighted">paid Digital Marketing approach, mostly includes
+      <strong>online advertisements</strong>,
+      <strong>affiliate marketing</strong> and more</span>. It requires proper skills along with capital investment. Most of the
+    companies and business go with inorganic digital marketing, rather than just relying on organic approach. As it gives
+    better result even in the highly competitive market. The only drawback is, there is no free alternative.</p>
+  <ol>
+    <li style="text-align: justify;">
+      <b>Online Advertisements:</b> Online advertisement means running promotional advertisements on the internet. usually on
+      the websites. You have seen ads on Television (T.V.). Running ads on T.V. is a part of traditional marketing, but
+      <span
+        style="background-color: #f9e6a5;">running ads on the websites such as on
+        <strong>YouTube</strong>,
+        <strong>Google search</strong>
+        </span> etc is a part of inorganic digital marketing. It is the most powerful and effective strategy for internet marketing.
+        It allows reaching to your potential audience at a right time.</li>
+    <li style="text-align: justify;">
+      <b>Mobile Marketing:</b>
+      <span style="background-color: #f9e6a5;">Running advertisements on mobile devices</span>. Very effective and targetable Inorganic approach.</li>
+    <li style="text-align: justify;">
+      <b>SMM – Social Media Marketing:</b> It is a practice of
+      <span style="background-color: #f9e6a5;">running advertisements on social media networks</span>. We just can&#8217;t rely on
+      <strong>social media optimization</strong> strategies to promote your business. It is time taking and results are unpredictable.
+      In order to generate business effectively, webmasters combine
+      <strong>SMM</strong> (Social Media Marketing) with
+      <strong>SMO</strong>.</li>
+    <li style="text-align: justify;">
+      <b>Online Affiliate Marketing:</b> If you are a manufacturer or service provider, then you can provide affiliate to others
+      marketers or freelancers. For that, you can create your own affiliate system or use
+      <strong>Commission Junction</strong> (
+      <strong>cj.com</strong>). Affiliate marketing allows anyone (including digital marketers and bloggers) to join with your business
+      and carry forward your marketing on their own channels. In return, as the most of the business does, you can award
+      them with a commission or gift.</li>
+  </ol>
+  <p style="text-align: justify;">The list isn’t over – There are other approaches which fit in both the above categories. They are termed as just digital
+    marketing approaches.</p>
+  <h3>Other approaches</h3>
+  <p style="text-align: justify;">Other approaches include a mixture of Organic and Inorganic Digital Marketing approach. They provide both free and paid
+    marketing plans to their users. It includes:</p>
+  <ol>
+    <li style="text-align: justify;">
+      <b>Email Marketing:</b>
+      <span style="background-color: #f9e6a5;">It is a practice of generating business through promotional emails.</span> Where marketers send promotional email to
+      their potential customers in order to generate business. For that, they use email marketing tools. These tools offer
+      both free and paid plans. Free plans include a limited number of emails and subscribers. While paid plans comparatively
+      increase this limit.</li>
+    <li style="text-align: justify;">
+      <b>Classifieds and Business Listings:</b> There are businesses, which helps other small business to reach out to a large
+      number of audience.
+      <span style="background-color: #f9e6a5;">They are like a platform for small business, to sell and promote their product and services</span>. Their business
+      model offers both free and paid plans.</li>
+  </ol>
+  <h4>What&#8217;s next?</h4>
+  <p style="text-align: justify;">The first step of Digital marketing is to create an online presence for your business. Your online presence makes your
+    business discoverable on the internet. Then we will discuss each approach with practical.</p>
+</div>
+<div class="chatBox">
+  <p class="bob">Kevin, can I start my business, and promote it using the Organic approach. And once I make some profit, I will start the
+    Inorganic promotion.</p>
+  <p class="kevin">Yes Bob, of course, you can do that. Most of the startups, do the same. But there is one thing you should know.</p>
+  <p class="bob">What?</p>
+  <p class="kevin">Not all business are same. If you are running a business, where you have to target most of your audience through the internet.
+    Then I suggest you go with the Inorganic approach along with Organic approach. It because organic approach will take
+    time. But inorganic approach yields result instantly.</p>
+  <p class="bob">I see</p>
+  <p class="kevin">If you target users mostly from internet. Then you may not be able to make a significant profit by only using the organic
+    approach. Unless you are a brilliant digital marketer. So there is no point in putting your business at risk.</p>
+  <p class="bob">
+    <smile></smile> Got it, Kevin thanks for the suggestions.</p>
+</div>
+
+
+<!-- Chapter Navigation For Middle Topics-->
+<div class="chapter-nav">
+  <div class="dual-buttons">
+    <a href="dmbuddy.htm?page=course&nav-cph=1&nav-top=3" class="button flat gray medium">
+      Previous Topic
+    </a>
+    <a href="dmbuddy.htm?page=course&nav-cph=1&nav-top=5" class="button flat primary medium">Next Topic
+    </a>
+  </div>
+</div>
+
+
+<!--List-->
+<div id="list-base" class="list-base"></div>

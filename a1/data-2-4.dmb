@@ -1,0 +1,129 @@
+<!-- Chapter & Topic Bar -->
+<div class="chapter-title">
+  <p>
+    <!-- Chapter -->
+    <span class="chapterx">2
+      <sup>nd</sup> Chapter</span>
+    <!-- Topic -->
+    <span class="chapterx">4
+      <sup>th</sup> Topic</span>
+    <!-- Close Button -->
+    <a href="dmbuddy.htm?page=home">
+      <img draggable="false" src="../images/closetopic.png">
+    </a>
+  </p>
+</div>
+
+
+<!-- Featured Image -->
+<img draggable="false" src="media/course/a1/124.png">
+
+
+<!-- Content -->
+<div class="contentBox">
+  <h2>Understanding Domain Name</h2>
+  <h4>What is a domain name?</h4>
+  <p style="text-align: justify;">A Domain Name is the address of your Website. It is your online identity! Generally, it’s in the name of the business.</p>
+  <p class="example">
+    <strong>www.google.com</strong> is the domain name of Google Company. It is also an address of one of the most famous search
+    engine on the planet.</p>
+  <p class="definition">The Domain name is simply a unique sequence of letters, numbers or both. These letters and numbers are separated by one
+    or more dots, which act as a pointer to a unique numerical IP address on an Internet. Domain name is case insensitive.</p>
+  <p style="text-align: justify;">Simply a
+    <span class="highlighted">domain name can be broken into three parts. Top Level Domain, Second Level Domain and Sub-Domain</span>. As you can see
+    in the above illustration.</p>
+  <ol>
+    <li style="text-align: justify;">
+      <b>TLD:</b> “.com” is TLD. It stands for Top Level Domain. It defines the Domain Name extensions in the DNS (Domain Name
+      System) records of the Internet.
+      <span class="highlighted">TLD is used to identify the domains according to its purpose, type of organisation associated with it or the geographical
+        location where it originates</span>.</li>
+    <li style="text-align: justify;">
+      <b>Second Level Domain:</b> “webenfolds” is Second Level Domain &#8211;
+      <span class="highlighted">It is the part of the domain name located to the left of the dot</span>. It is also the actual name of your business
+      or any unique name that you can associate with TLD.</li>
+    <li style="text-align: justify;">
+      <b>Subdomain – Third Level Domain:</b> “www” is the subdomain. It is also known as a third level domain. This is the last
+      level of any domain name.</li>
+  </ol>
+  <h3>Domain Name Extension or TLD</h3>
+  <p style="text-align: justify;">Domain Name ends with an extension such as .com, .org, .info etc. We have different types of the domain name, based on
+    their extensions.</p>
+  <p style="text-align: justify;">TLD has many types and each of it has a separate registry managed by a designated organisation under the direction of the
+    ICANN (Internet Corporation for Assigned Names and Numbers).</p>
+  <p style="text-align: left;">Top level domains are classified into three categories. gTLD, ccTLD, and sTLD.</p>
+  <p style="text-align: justify;">
+    <b>gTLD &#8211; Generic Top Level Domains:</b>
+    <span class="highlighted">These are at the highest level of Domain Name extensions in the DNS record of the Internet</span>.</p>
+  <ol>
+    <li>
+      <b>.com</b> − Stands for company/commercial, but it can be used for any website.</li>
+    <li>
+      <b>.net</b> − Stands for network and is usually used for a network of sites.</li>
+    <li>
+      <b>.org</b> − Stands for an organisation and is supposed to be for non-profit bodies.</li>
+    <li>
+      <b>.info</b> − Stands for information and is usually used provide information.</li>
+    <li>
+      <b>and</b> more</li>
+  </ol>
+  <p style="text-align: justify;">
+    <b>ccTLD – Country code Top Level Domains:</b>
+    <span class="highlighted">These are usually two letter domain extension established for geographical locations</span>.</p>
+  <ol>
+    <li>
+      <b>.us</b> – Represents United States.</li>
+    <li>
+      <b>.in</b> − Represents India.</li>
+    <li>
+      <b>.au</b> − Represents Australia.</li>
+    <li>and more</li>
+  </ol>
+  <p style="text-align: justify;">
+    <b>sTLD – Sponsored Top Level Domains:</b>
+    <span class="highlighted">These domain names are managed by private organisations. A sponsored TLD is a specialised top-level domain that has a
+      sponsor representing a specific community served by the domain</span>.</p>
+  <ol>
+    <li style="text-align: justify;">
+      <b>.edu</b> (Sponsor EDUCAUSE) – Stands for Education and usually used by the university.</li>
+    <li style="text-align: justify;">
+      <b>.gov</b> (Sponsor General Services Administration) – Stands for Government and can only by used by government bodies.</li>
+    <li>
+      <b>.aero</b> (Sponsor SITA) – Members of the air-transport industry.</li>
+    <li style="text-align: justify;">
+      <b>.mobi</b> (Sponsor dotMobi) – Providers and consumers of mobile products and services.</li>
+    <li>
+      <b>.biz</b>,
+      <b>.website</b>, .rock and more</li>
+  </ol>
+  <h4>Conclusion:</h4>
+  <p style="text-align: justify;">Selecting a perfect domain is very important. You can purchase your domain name based on the name of your firm. I suggest
+    you get .com TLD first and buy the rest of the TLDs to safeguard your business identity.</p>
+</div>
+<div class="chatBox">
+  <p class="stuart">Wow! there are so many Domain Name extensions.</p>
+  <p class="bob">
+    <confused></confused> I am confued! What should I purchase?</p>
+  <p class="bob">Kevin, can I purchase Domain Name with
+    <strong>.banana</strong> extension?</p>
+  <p class="kevin">Haa ha, may be! if that extension exisits. Just google it!</p>
+  <p class="bob">Hmm! Kevin, are all domain name extension costs same?</p>
+  <p class="kevin">No Bob. Different domain names have different costs. It is set by the domain name registrar.</p>
+  <p class="stuart">Kevin can we purchase all domain name extensions.</p>
+  <p class="kevin">No Stuart. We can’t purchase some domain name extensions such as .edu, .gov etc. They have specific requirements. We have
+    to fulfill the requirements in order to get those domain names. For example, you can only buy .edu if you are an institute,
+    school, college or university.</p>
+</div>
+
+
+<!-- Chapter Navigation For Middle Topics-->
+<div class="chapter-nav">
+  <div class="dual-buttons">
+    <a href="#" class="button flat primary medium">Previous Topic</a>
+    <a href="#" class="button flat primary medium">Next Topic</a>
+  </div>
+</div>
+
+
+<!--List-->
+<div id="list-base" class="list-base"></div>

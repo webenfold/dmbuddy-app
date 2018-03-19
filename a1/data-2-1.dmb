@@ -1,0 +1,103 @@
+<!-- Chapter & Topic Bar -->
+<div class="chapter-title">
+  <p>
+    <!-- Chapter -->
+    <span class="chapterx">2
+      <sup>nd</sup> Chapter</span>
+    <!-- Topic -->
+    <span class="chapterx">1
+      <sup>st</sup> Topic</span>
+    <!-- Close Button -->
+    <a href="dmbuddy.htm?page=home">
+      <img draggable="false" src="../images/closetopic.png">
+    </a>
+  </p>
+</div>
+
+
+<!-- Featured Image -->
+<img draggable="false" src="media/course/a1/121.jpg">
+
+
+<!-- Content -->
+<div class="contentBox">
+  <h2>Understanding websites and blog</h2>
+  <p style="text-align: justify;">A company’s website is an online business interaction point. It’s like an online document containing information regarding
+    your business, products, services etc. Anyone can access your website with a unique address, which we call as URL (Uniform
+    Resource Locator).</p>
+  <p style="text-align: justify;">A website is a collection of one or more web pages including texts and multimedia contents, published on a single unique
+    domain name.</p>
+  <p style="text-align: justify;">Before proceeding further. Let’s briefly, discuss few technical terms which are associated with a website.</p>
+  <ul>
+    <li style="text-align: justify;">
+      <b>Domain Name:</b>
+      <span style="background-color: #f9e6a5;">Domain name is a unique identity of your website.</span> It’s mostly same as the name of your business.</li>
+    <li style="text-align: justify;">
+      <b>Web Page:</b>
+      <span style="background-color: #f9e6a5;">A web page is a single HTML document</span>. It is created using HTML (Hyper Text Markup Language).</li>
+    <li style="text-align: justify;">
+      <b>HTML:</b>
+      <span style="background-color: #f9e6a5;">HTML (Hyper Text Markup Language) is a programming language used to create a website.</span> A programming language
+      is different than human understandable language. Basically, a programming language is created for the machine. Our
+      computer, mobile phone, and other digital devices are machines. So they understand HTML and create beautiful web pages
+      which we see and interact with.</li>
+  </ul>
+  <p class="note" style="background-color: #5f9ea0; color: #ffffff;">Almost everything we see on the internet is a website. Such as Google, Facebook, Twitter, YouTube etc.</p>
+  <p style="text-align: justify;">A professional website is developed using HTML along with several other programming languages such as CSS, JavaScript,
+    PHP, ASP etc. Other programming languages are used to add advanced web functionalities, styles, animations, and more.</p>
+  <p style="text-align: justify;">Today almost every business has their website. The majority of businesses get their website developed by the experts. Few
+    of them might have developed it through their in-house team. And there is a small number of entrepreneurs who themselves
+    developed their website for their business.</p>
+  <p style="text-align: justify;">I recommend entrepreneurs to get their website developed by the experts. It will save time. By the way, you must go through
+    this course even if you are not planning to develop your website on your own. It will help you to understand backend
+    work involved in creating a website so that no one can make you fool technically.</p>
+  <h3>Understand Blog</h3>
+  <p style="text-align: justify;">A blog is a frequently updated online personal journal or diary. It is a place to express yourself online to the world.
+    A place to share your thoughts and your passions. This type of website is used to increase public relation. Business
+    uses a blog to share updates with their customers and clients. A blog also helps in SEO. Blogs typically include features
+    such as comments and links to increase user engagements.</p>
+  <p class="definition" style="background-color: #5e384b; color: #ffffff;">A blog (also called a weblog or web log) is a website consisting of entries (also called posts) such as online journal
+    or diary. Or a blog is a type of website which has posts (or entries) appearing in reverse chronological order.</p>
+  <ul>
+    <li>
+      <b>Blogger:</b> A blogger is someone who blogs, or writes content for a blog.</li>
+    <li>
+      <b>Blogging:</b> Blogging is the act of writing a post for a blog</li>
+  </ul>
+  <h4>What is a Business Blog?</h4>
+  <p style="text-align: justify;">
+    <span style="background-color: #f9e6a5;">A business blog is a website with frequently updated content about the business-related topics.</span> Mostly used to
+    drive traffic to the website, improve keyword ranking (SEO) and improve PR (Public Relation).</p>
+  <p>Creating business blog is an essential part of creating an online presence. In this chapter, we will first create the website
+    then the blog.</p>
+</div>
+<div class="chatBox">
+  <p class="bob">What is your suggestion, Kevin? Should we learn website development and create our own website or should I get it developed
+    by the experts?</p>
+  <p class="kevin">Bob, it’s very simple. It depends upon &#8211; what is most important to you? Money or Time.</p>
+  <p class="bob">
+    <surprised></surprised> Oh!</p>
+  <p class="kevin">If you have capital (Money) – then don’t invest your time in practicing advanced website development. Just have the understanding
+    and focus on your business.</p>
+  <p class="bob">I see</p>
+  <p class="kevin">And I suggest! You must go through this course once and learn everything. It will help you to manage the IT part of your
+    business effectively.</p>
+  <p class="bob">Ok</p>
+</div>
+
+
+<!-- Chapter Navigation For First Topic -->
+<div class="chapter-nav">
+  <div class="dual-buttons">
+    <a href="dmbuddy.htm?page=course&nav-cph=1&nav-top=1" class="button flat gray medium">
+      Previous Chapter
+    </a>
+    <a href="dmbuddy.htm?page=course&nav-cph=2&nav-top=2" class="button flat primary medium">
+      Next Topic
+    </a>
+  </div>
+</div>
+
+
+<!--List-->
+<div id="list-base" class="list-base"></div>

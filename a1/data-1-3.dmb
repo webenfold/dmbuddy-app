@@ -1,0 +1,159 @@
+<!-- Chapter & Topic Bar -->
+<div class="chapter-title">
+  <p>
+    <!-- Chapter -->
+    <span class="chapterx">1
+      <sup>st</sup> Chapter</span>
+    <!-- Topic -->
+    <span class="chapterx">3
+      <sup>rd</sup> Topic</span>
+    <!-- Close Button -->
+    <a href="dmbuddy.htm?page=home">
+      <img draggable="false" src="../images/closetopic.png">
+    </a>
+  </p>
+</div>
+
+
+<!-- Featured Image -->
+<img draggable="false" src="media/course/a1/113.jpg">
+
+
+<!-- Content -->
+<div class="contentBox">
+  <h2>Importance of Digital Marketing</h2>
+  <p>In today’s generation, most of the people, spend most of their time on the internet. For them, the internet is one of their
+    favorite places to find the information they are looking for, search products they need to buy, a get-together with a
+    friend or family who are far away, remain connected with the loved ones, play games, watch movies, listen to songs and
+    the list goes on.</p>
+  <p>Today many businesses are implementing digital marketing strategies to target online users and to turn them into their
+    client. For that, they run digital marketing campaigns on social media networks, famous websites, blogs, gaming and entertainment
+    platforms etc. As the internet is growing and getting cheaper day by day, there is an exponential rise in the number
+    of internet users.
+    <span class="highlighted">Today internet is considered the 6th mass media channel after print, recordings, cinema, radio, and TV</span>.</p>
+  <h3>How Digital Marketing can help you in your business</h3>
+  <p>The main purpose of digital marketing for any business is to
+    <span class="highlighted">connect with the large section of the audience, who are active on the internet, in order to generate business</span>.
+    Among them, digital marketers can easily find potential customers for their business. They target them on their digital
+    devices and promote their product and services according to their preferences and interest.</p>
+  <p class="example">Suppose I sell designer t-shirts. Now to promote my business I can target online users who regularly visit fashion related
+    websites. I can run advertisements over fashion related websites including social media networks such as Facebook to
+    target them as they might be interested in my designer t-shirts.</p>
+  <p class="note">If you are running a business and getting businesses from newspaper, flyers and other traditional methods. Then you must
+    consider implementing digital marketing techniques in your business in order to exponentially grow your business.</p>
+  <p>I have elaborated few points below, which can strengthen the importance of digital marketing.</p>
+  <ol>
+    <li>
+      <strong>Wider Reach:</strong> As you already know, the internet has no limits.
+      <span class="highlighted">Using the internet we can reach to each to every corner of the world</span>. The Internet is an essence of Digital
+      marketing. Internet marketing gives you the power to turn a small company into a worldwide famous brand.</li>
+    <li>
+      <strong>Cost-Effective:</strong> As I said before.
+      <span class="highlighted">Most of the digital marketing strategies are free or require comparatively low investments</span>. Running advertisements
+      on digital media channels is significantly cheaper than running advertisements on traditional marketing channels such
+      as TV, Newspaper etc. Small businesses have very little resources and even capitalization. For them, digital marketing
+      is the best and most cost-effective marketing channel that delivers results in today’s market.</li>
+    <li>
+      <strong>Effective Measuring:</strong> Measuring marketing objectives and efforts, on traditional marketing channels is really
+      a difficult task and sometimes it&#8217;s impossible. On another hand,
+      <span class="highlighted">digital marketing allows us to completely measure each and every activity related to our digital marketing campaign</span>.
+      It allows to effectively manage and improve our campaigns in order to generate more business. Measuring the effectiveness
+      of digital campaigns is an integral part of engaging, exciting and efficient marketing.</li>
+    <li>
+      <strong>Better Targeting:</strong> There are no other marketing channels, which allows you to
+      <span class="highlighted">target your audience effectively</span> other than digital marketing. Identifying the potential customers and targeting
+      them, can save a lot of marketing resources including time and money. It also helps to increase the chances of conversion.
+      We can target audience based on their interest, locations, languages etc.</li>
+    <li>
+      <strong>Accurate Tracking:</strong> Through digital marketing, it is possible to understand your audiences and customers before
+      it actually becomes your client.
+      <span class="highlighted">We can effectively track the activity of your website’s visitor using digital marketing tools</span>. They use digital
+      devices, which we can easily track and monitor. It helps to improve and optimize our digital marketing campaign accordingly.</li>
+    <li>
+      <strong>Interaction:</strong> One of the reasons why digital marketing is taking over traditional marketing channels is the
+      ability of web marketing platforms to interact. Such as websites, mobile applications etc. Where a business can
+      <span class="highlighted">interact with targeted audiences in real time</span>. Engagement in any form is what your customers expect to receive
+      when interacting with your brand or business.</li>
+    <li>
+      <strong>Remarketing:</strong> Remarketing reduces the risk of losing a customer. We will discuss this in details later. For
+      now, just remember
+      <span class="highlighted">remarketing is a practice of targeting your users who have previously visited your business and to show relevant offers
+        according to their interest</span>.</li>
+  </ol>
+  <p>Digital marketing is applicable to all types of business. It is the best way to reach to the widest majority of audience
+    easily. Implementing the digital marketing strategies which you will learn in this course will always be beneficial for
+    your business.</p>
+</div>
+<div class="chatBox">
+  <p class="bob">Wow! Digital Marketing is really very important for any business. Kevin, I have one questions!</p>
+  <p class="stuart">Me too. I also want to ask a question.</p>
+  <p class="kevin">OK, Bob, you go first!</p>
+  <p class="bob">How can we measure digital marketing campaign?</p>
+  <p class="kevin">Brand and business use different approaches to measuring the conversion or ROI (Return On Investment) of their digital
+    marketing campaign. Mostly they track and measures traffic, impressions, clicks, conversions etc. You will understand
+    this later, as we go on with this course.</p>
+  <p class="stuart">Don’t worry Bob. You will definitely understand this later. Now let me ask my question. Kevin &#8211; what is internet?</p>
+  <p class="bob">
+    <funny></funny> OMG!</p>
+  <p class="stuart">
+    <angry></angry> Shut up! Don&#8217;t try to be genius.</p>
+  <p class="kevin">Guys don’t fight. Bob, it&#8217;s a good habit to ask, what you don&#8217;t know. And it is necessary to understand internet
+    in order to learn digital marketing effectively.</p>
+  <p class="kevin">Internet in simple words is a medium of communication. We can also say it is the global network of digital devices that
+    are connected with each other like a web. Thus we also call this network as a world wide web. The biggest network of
+    real-time data transfer. These devices communicate with each other using IP (Internet Protocol) Address.</p>
+  <p class="stuart">I see. But what is IP Address?</p>
+  <p class="bob">Why should I tell you everything?</p>
+  <p class="stuart">
+    <mad></mad> I am not asking you!</p>
+  <p class="kevin">Stuart, why don&#8217;t you search it on
+    <strong>Webmasters Club</strong>. Have you created an account yet!</p>
+  <p class="stuart">No, Wait a sec! let me create it now.</p>
+  <p class="bob">
+    <smile></smile> I have an account. I am a member of Webmasters Club.</p>
+  <p class="kevin">Good! Stuart, you can search anything on Webmasters Club. It is an archive of knowledge. It has
+    <strong>definitions</strong>,
+    <strong>explanations</strong>,
+    <strong>articles</strong>,
+    <strong>courses</strong>, etc related to Digital Marketing, Web Technologies and more. It&#8217;s completely free to join the
+    club. It&#8217;s open for all. Join the club and search for any new terms you encounter in this course.</p>
+  <p class="bob">Stuart, you can also use #hashtags, to search Webmasters Club.</p>
+</div>
+
+
+<!-- Quiz Base -->
+<div class="quiz"></div>
+
+
+<!-- Chapter Navigation For Middle Topics-->
+<div class="chapter-nav">
+  <div class="dual-buttons">
+    <a href="dmbuddy.htm?page=course&nav-cph=1&nav-top=2" class="button flat gray medium">
+      Previous Topic
+    </a>
+    <a href="dmbuddy.htm?page=course&nav-cph=1&nav-top=4" class="button flat primary medium">Next Topic
+    </a>
+  </div>
+</div>
+
+
+<!--List-->
+<div id="list-base" class="list-base"></div>
+
+
+<!-- Should be created using CMB 2 -->
+<div class="qz-ele">
+  <p id="qz-q">Why Digital Marketing is effective for Business?</p>
+  <p class="qz-a">Reach potential customers offline and online</p>
+  <p class="qz-a">Reach potential customers online</p>
+  <p class="qz-a correct">Target and reach potential customers online</p>
+  <p class="qz-a">Cannot target but can reach potential customers offline</p>
+</div>
+
+<div class="qz-ele">
+  <p id="qz-q">Using Digital Marketing you can</p>
+  <p class="qz-a">Promote Business or Brand</p>
+  <p class="qz-a">Promote services and products to local users</p>
+  <p class="qz-a">Track / Monitor Digital Marketing campaign</p>
+  <p class="qz-a correct">All correct</p>
+</div>

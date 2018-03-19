@@ -1,0 +1,143 @@
+// =========================================================
+// Animations
+// =========================================================
+@-webkit-keyframes progress-bar-stripes                     {
+  from { background-position: 0 0 }
+  to { background-position: 40px 0 }
+  }
+@keyframes progress-bar-stripes                             {
+  from { background-position: 0 0 }
+  to { background-position: 40px 0 }
+  }
+// =========================================================
+
+
+
+// =========================================================
+// Progress Bar Style
+// =========================================================
+.progress-bar                                               {
+  >div                                                      {
+    width: 100%;
+    >div.progress                                           {
+      overflow: hidden;
+      height: 18px;
+      background-color: #e8e8e8;
+      background-image: -webkit-linear-gradient(top, #e8e8e8, #f2f2f2);
+      background-image: linear-gradient(top, #e8e8e8, #f2f2f2);
+      background-repeat: repeat-x;
+      -webkit-box-shadow: inset 0 1px 2px 1px rgba(0,0,0,0.1);
+      box-shadow: inset 0 1px 2px 1px rgba(0,0,0,0.1);
+      -webkit-border-radius: 4px;
+      border-radius: 4px;
+
+      .bar                                                  {
+        width: 0%;
+        height: 18px;
+        color: #ffffff;
+        font-size: 12px;
+        text-align: center;
+        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+        background-color: #89949B;
+        background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+        background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+        -webkit-background-size: 40px 40px;
+        background-size: 40px 40px;
+        background-repeat: repeat-x;
+        -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+        box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        -webkit-transition: width 0.6s ease;
+        transition: width 0.6s ease;
+        -webkit-animation: progress-bar-stripes 2s linear infinite;
+        animation: progress-bar-stripes 2s linear infinite;
+        }
+      }
+    }
+  }
+// ---------------------------------------------------------
+#info-base .quick-progress                                  {
+  text-align:  center;
+  p {
+    font-size:  40px;
+    text-align: center;
+    margin-bottom: 10px;
+    }
+  }
+// =========================================================
+
+
+
+// =========================================================
+// Icons
+// =========================================================
+.icon::before                                               {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  }
+.icon-white::before                                         {
+  filter: brightness(20);
+  }
+.icon-gray::before                                          {
+  filter: brightness(2);
+  }
+.icon-yellow::before                                        {
+  filter: brightness(4) sepia(1) saturate(12) contrast(200%) hue-rotate(370deg);
+  }
+.icon-red::before                                           {
+  filter: brightness(3) sepia(1) saturate(10) contrast(220%) hue-rotate(340deg);
+  }
+.icon-home::before                                          {
+  background-image: url('/media/icon-set.png');
+  background-size: 400%;
+  background-position: 0% 0%;
+  }
+.icon-course::before                                        {
+  background-image: url('/media/icon-set.png');
+  background-size: 400%;
+  background-position: 33.6% 0%;
+  }
+.icon-guide::before                                         {
+  background-image: url('/media/icon-set.png');
+  background-size: 400%;
+  background-position: 66.5% 0%;
+  }
+.icon-ask::before                                           {
+  background-image: url('/media/icon-set.png');
+  background-size: 400%;
+  background-position: 100% 0%;
+  }
+.icon-next-circle::before                                   {
+  background-image: url('/media/icon-set.png');
+  background-size: 400%;
+  background-position: 0% 100%;
+  }
+.icon-prev-circle::before                                   {
+  background-image: url('/media/icon-set.png');
+  background-size: 400%;
+  background-position: 0% 100%;
+  transform: scaleX(-1);
+  }
+.icon-next::before                                          {
+  background-image: url('/media/icon-set.png');
+  background-size: 400%;
+  background-position: 33.6% 100%;
+  }
+.icon-prev::before                                          {
+  background-image: url('/media/icon-set.png');
+  background-size: 400%;
+  background-position: 33.6% 100%;
+  transform: scaleX(-1);
+  }
+.icon-close::before                                         {
+  background-image: url('/media/icon-set.png');
+  background-size: 400%;
+  background-position: 66.5% 100%;
+  transform: rotate(45deg);
+  }
+// =========================================================

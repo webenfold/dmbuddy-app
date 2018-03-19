@@ -1,0 +1,7 @@
+<div>
+  <h3>Switch Objective</h3>
+  <p>You are about to switch your selected objective. Course content will be changed according to the objective you select.</p>
+  <a id="obj-1" class="button primary large" onClick="select_objective(1)">Promote business</a>
+  <a id="obj-2" class="button primary large" onClick="select_objective(2)">Making money online</a>
+  <a id="obj-3" class="button primary large" onClick="select_objective(3)">Become a webmaster</a>
+</div>
