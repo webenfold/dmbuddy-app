@@ -10,7 +10,9 @@
         <link rel="dns-prefetch" href="//ssl.google-analytics.com">
         <meta name="robots" content="noindex,nofollow">
 
-        <link rel="stylesheet" href="../z-style/load.min.css">
+        <link href="../z-style/load.min.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
+        <link href="../z-style/core.min.css" rel="stylesheet">
 
         <title>DM Buddy | Digital Marketing Buddy</title>
 </head>
@@ -26,23 +28,6 @@
         </div>
 
         <!--Footer-->
-        <script type="text/javascript">
-                function loadCSS(href, before, media) {
-                        "use strict";
-                        var ss = window.document.createElement("link");
-                        var ref = before || window.document.getElementsByTagName("script")[0];
-                        ss.rel = "stylesheet";
-                        ss.href = href;
-                        ss.media = "only x";
-                        ref.parentNode.insertBefore(ss, ref);
-                        setTimeout(function () {
-                                ss.media = media || "all";
-                        });
-                        return ss;
-                }
-                loadCSS("//fonts.googleapis.com/css?family=PT+Sans:400,700");
-                loadCSS("//" + window.location.hostname + "/z-style/core.min.css");
-        </script>
         <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
         <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>

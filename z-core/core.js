@@ -337,7 +337,6 @@ function render_qz()                                        {
 // ---------------------------------------------------------
 // Create Quiz
 function create_qz()                                        {
-
   var temp_html = '';
   function show_msg(allowed)                                {
     var msg     = '';
@@ -395,6 +394,9 @@ function create_qz()                                        {
     render_qz();
     }
   $('.qz-ele').remove();
+
+  // Returns this function to execute next;
+  return true;
   }
 // ---------------------------------------------------------
 // Get Progress Data
@@ -632,23 +634,22 @@ function render_page(type)                                  {
     }
   // Course Render 3 : Mark Active topic
   else if(type == 'course-r3')                              {
-    create_qz();
+    if(create_qz())                                         {
+      var max_height = 0;
+      $('.question-set').each(function(){
+        if($(this).height() > max_height){
+          max_height = $(this).height();
+          }
+        });
+      $('.question-set').css('height',max_height);
+      }
     var cph_num = parseInt($.get_query('nav-cph'));
     var top_num = parseInt($.get_query('nav-top'));
     if(!(cph_num > 0))cph_num=1;
     if(!(top_num > 0))top_num=1;
-
     redirect_url  = 'dmbuddy.htm?page=course&nav-cph=' +
                     cph_num + '&nav-top=' + top_num;
-
     Cookies.set("last_page", redirect_url , { expires: 365 });
-    var max_height = 0;
-    $('.question-set').each(function(){
-      if($(this).height() > max_height){
-        max_height = $(this).height();
-        }
-      });
-    $('.question-set').css('height',max_height);
     end_loading();
     }
   // Home render 1 : Load Continue
@@ -988,7 +989,7 @@ function start_script()                                     {
     create_page('action-page','first-destination');
     return;
     }
-  }
+   }
 // ---------------------------------------------------------
 // ON Load Function
 // ---------------------------------------------------------
